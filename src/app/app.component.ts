@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Avreparacionesyreformas';
+
+  houseIcon = 'assets/house-icon.png';
+  house = 'assets/house.png';
+  phoneIcon='assets/telefono.png';
 }
