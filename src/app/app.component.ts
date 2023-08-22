@@ -12,4 +12,7 @@ export class AppComponent {
   phoneIcon = 'assets/telefono.png';
   truck = 'assets/camion.png';
   furgo= 'assets/furgo.png';
+  location= 'assets/location.png';
+  phoneFooter= 'assets/icon-phone-footer.png';
+  mailIcon= 'assets/mail.png';
 }
