@@ -9,5 +9,7 @@ export class AppComponent {
 
   houseIcon = 'assets/house-icon.png';
   house = 'assets/house.png';
-  phoneIcon='assets/telefono.png';
+  phoneIcon = 'assets/telefono.png';
+  truck = 'assets/camion.png';
+  furgo= 'assets/furgo.png';
 }
